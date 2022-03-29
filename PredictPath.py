@@ -1,6 +1,6 @@
 """
 
-Predict Path
+Predic
 
 Usage:
   PredictPath.py [--pre] [--cor]
